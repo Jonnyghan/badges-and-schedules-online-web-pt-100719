@@ -10,7 +10,7 @@ end
 badges
 end
 
-def assign_rooms(array, index)
+def assign_rooms(array)
   rooms = []
   counter = 1
   array.each do |name|
